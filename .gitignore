@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+.DS_Store
+.ipynb_checkpoints/
+*.log
+models/*.pkl
+!models/README.md
+data/*.csv
+!data/README.md
